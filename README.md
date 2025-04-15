@@ -14,3 +14,16 @@ From MONAI:
   - GTV = gross tumor volume
 - maybe use data augmentation? if training data is not enough
 - [Auto3DSeg tutorial](https://github.com/Project-MONAI/tutorials/blob/main/auto3dseg/README.md)
+
+## 15/04
+- no transunet in MONAI, but UNETR, swinunetr, dynamicunet are available
+  - swin has better locality modeling than vit (closest to transunet)
+  - dynunet has good performance and speed
+- should use auto3dseg?
+  - auto model selection: picks between unetr, swinunetr, dynunet based on data stats
+  - auto transforms
+  - but less control, heavy and harder experiment tracking
+- [tutorial?](https://github.com/Project-MONAI/tutorials/blob/main/3d_segmentation/swin_unetr_brats21_segmentation_3d.ipynb)
+- [SwinUNETR paper](https://arxiv.org/pdf/2201.01266)
+- final segmentation output: one channel for each class
+- dice loss [link](https://cvinvolution.medium.com/dice-loss-in-medical-image-segmentation-d0e476eb486)
