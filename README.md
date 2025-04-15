@@ -9,7 +9,7 @@ From MONAI:
 
 ### History
 ## 14/04
-- looked into the dataset
+- looked into the dataset [link](https://zenodo.org/records/11199559)
   - folder structure: top/patient/preRT/ MRI volume + tumor segmentation mask
   - GTV = gross tumor volume
 - maybe use data augmentation? if training data is not enough
