@@ -24,6 +24,7 @@ From MONAI:
   - auto transforms
   - but less control, heavy and harder experiment tracking
 - [tutorial?](https://github.com/Project-MONAI/tutorials/blob/main/3d_segmentation/swin_unetr_brats21_segmentation_3d.ipynb)
+- [tutorial 2?](https://github.com/Project-MONAI/tutorials/blob/main/3d_segmentation/swin_unetr_btcv_segmentation_3d.ipynb)
 - [SwinUNETR paper](https://arxiv.org/pdf/2201.01266)
 - final segmentation output: one channel for each class
 - dice loss [link](https://cvinvolution.medium.com/dice-loss-in-medical-image-segmentation-d0e476eb486)
