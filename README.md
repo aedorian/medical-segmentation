@@ -29,6 +29,9 @@ From MONAI:
 - final segmentation output: one channel for each class
 - dice loss [link](https://cvinvolution.medium.com/dice-loss-in-medical-image-segmentation-d0e476eb486)
 
+TO DO: fine tune model, see result of segmentation (viz)
+
+
 
 
 1. Data Augmentation
