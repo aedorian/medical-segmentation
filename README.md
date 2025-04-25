@@ -1,6 +1,9 @@
 # medical-segmentation
 CV&amp;DL project NTNU 2025
 
+# To do
+- use validation set with folds
+
 UNet, TransUNet
 
 From MONAI:
