@@ -1,6 +1,7 @@
 # medical-segmentation
-CV&amp;DL project NTNU 2025
+TDT4265 mini-project, NTNU, 2025
 
+<!--
 # To do
 - use validation set with folds
 
@@ -120,3 +121,5 @@ You’re currently training for 100 epochs. You might want to train for more epo
 
 6. Check for Data Imbalance
 If one tumor type is underrepresented or the dataset is imbalanced, the model might have difficulty learning. Consider using class weights in your loss function or oversampling/undersampling the data.
+
+-->
