@@ -1,5 +1,7 @@
 # medical-segmentation
 TDT4265 mini-project, NTNU, 2025
+![Screenshot from 2025-05-02 17-23-39](https://github.com/user-attachments/assets/a6cea2c9-0048-4a74-8f1f-b56a63ac1e6d)
+![Screenshot from 2025-05-02 17-23-49](https://github.com/user-attachments/assets/35e3b4be-0068-45ff-b998-5415bc2e31b8)
 
 <!--
 # To do
